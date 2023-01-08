@@ -38,15 +38,13 @@ class Form
          </div>
           
            <div class="flex flex-col-reverse sm:flex-row sm:justify-between items-center">
-        <a href="#" class="inline-block text-blue-500 hover:text-blue-800 hover:underline">Have an account? Loggin here</a>
+        <a href="login.php" class="inline-block text-blue-500 hover:text-blue-800 hover:underline">Have an account? Loggin here</a>
         <button type="submit" class="bg-blue-500 text-white font-bold px-5 py-2 rounded focus:outline-none shadow hover:bg-blue-700 transition-colors">Create</button>
         </div>
           
            </div>
             </form>
-            <div class="flex justify-center text-gray-500 text-sm">
-            <p>&copy;2021. All right reserved.</p>
-            </div>
+            
         </div>
         </div>
         ';
@@ -72,15 +70,12 @@ class Form
          </div>
           
            <div class="flex flex-col-reverse sm:flex-row sm:justify-between items-center">
-        <a href="#" class="inline-block text-blue-500 hover:text-blue-800 hover:underline">don`t Have an account? Create new acccount</a>
+        <a href="register.php" class="inline-block text-blue-500 hover:text-blue-800 hover:underline">don`t Have an account? Create new acccount</a>
         <button type="submit" class="bg-blue-500 text-white font-bold px-5 py-2 rounded focus:outline-none shadow hover:bg-blue-700 transition-colors">Login</button>
         </div>
           
            </div>
             </form>
-            <div class="flex justify-center text-gray-500 text-sm">
-            <p>&copy;2021. All right reserved.</p>
-            </div>
         </div>
         </div>
         ';
